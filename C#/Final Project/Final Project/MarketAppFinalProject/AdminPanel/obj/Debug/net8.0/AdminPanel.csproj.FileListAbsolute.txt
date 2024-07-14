@@ -1,0 +1,36 @@
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\bin\Debug\net8.0\AdminPanel.exe
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\bin\Debug\net8.0\AdminPanel.deps.json
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\bin\Debug\net8.0\AdminPanel.runtimeconfig.json
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\bin\Debug\net8.0\AdminPanel.dll
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\bin\Debug\net8.0\AdminPanel.pdb
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\bin\Debug\net8.0\MarketApp.Models.dll
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\bin\Debug\net8.0\MarketApp.Models.pdb
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.csproj.AssemblyReference.cache
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.AssemblyInfoInputs.cache
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.AssemblyInfo.cs
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.csproj.Up2Date
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.dll
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\refint\AdminPanel.dll
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.pdb
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.genruntimeconfig.cache
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\ref\AdminPanel.dll
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\bin\Debug\net8.0\AdminPanel.exe
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\bin\Debug\net8.0\AdminPanel.deps.json
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\bin\Debug\net8.0\AdminPanel.runtimeconfig.json
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\bin\Debug\net8.0\AdminPanel.dll
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\bin\Debug\net8.0\AdminPanel.pdb
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\bin\Debug\net8.0\MarketApp.Models.dll
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\bin\Debug\net8.0\MarketApp.Models.pdb
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.csproj.AssemblyReference.cache
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.AssemblyInfoInputs.cache
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.AssemblyInfo.cs
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.csproj.Up2Date
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.dll
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\refint\AdminPanel.dll
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.pdb
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\AdminPanel.genruntimeconfig.cache
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\AdminPanel\obj\Debug\net8.0\ref\AdminPanel.dll

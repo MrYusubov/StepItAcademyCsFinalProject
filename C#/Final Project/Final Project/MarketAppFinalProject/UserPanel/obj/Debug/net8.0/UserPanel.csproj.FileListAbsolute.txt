@@ -1,0 +1,36 @@
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\bin\Debug\net8.0\UserPanel.exe
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\bin\Debug\net8.0\UserPanel.deps.json
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\bin\Debug\net8.0\UserPanel.runtimeconfig.json
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\bin\Debug\net8.0\UserPanel.dll
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\bin\Debug\net8.0\UserPanel.pdb
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\bin\Debug\net8.0\MarketApp.Models.dll
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\bin\Debug\net8.0\MarketApp.Models.pdb
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.csproj.AssemblyReference.cache
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.AssemblyInfoInputs.cache
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.AssemblyInfo.cs
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.csproj.Up2Date
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.dll
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\refint\UserPanel.dll
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.pdb
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.genruntimeconfig.cache
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\ref\UserPanel.dll
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\bin\Debug\net8.0\UserPanel.exe
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\bin\Debug\net8.0\UserPanel.deps.json
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\bin\Debug\net8.0\UserPanel.runtimeconfig.json
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\bin\Debug\net8.0\UserPanel.dll
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\bin\Debug\net8.0\UserPanel.pdb
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\bin\Debug\net8.0\MarketApp.Models.dll
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\bin\Debug\net8.0\MarketApp.Models.pdb
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.csproj.AssemblyReference.cache
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.AssemblyInfoInputs.cache
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.AssemblyInfo.cs
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.csproj.CoreCompileInputs.cache
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.csproj.Up2Date
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.dll
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\refint\UserPanel.dll
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.pdb
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\UserPanel.genruntimeconfig.cache
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\UserPanel\obj\Debug\net8.0\ref\UserPanel.dll

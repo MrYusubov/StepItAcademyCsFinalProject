@@ -1,0 +1,22 @@
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\MarketApp.Models\bin\Debug\net8.0\MarketApp.Models.deps.json
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\MarketApp.Models\bin\Debug\net8.0\MarketApp.Models.dll
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\MarketApp.Models\bin\Debug\net8.0\MarketApp.Models.pdb
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\MarketApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\MarketApp.Models.AssemblyInfoInputs.cache
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\MarketApp.Models.AssemblyInfo.cs
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\MarketApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\MarketApp.Models.dll
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\refint\MarketApp.Models.dll
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\MarketApp.Models.pdb
+C:\Users\Mr.Yusubov\Desktop\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\ref\MarketApp.Models.dll
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\MarketApp.Models\bin\Debug\net8.0\MarketApp.Models.deps.json
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\MarketApp.Models\bin\Debug\net8.0\MarketApp.Models.dll
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\MarketApp.Models\bin\Debug\net8.0\MarketApp.Models.pdb
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\MarketApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\MarketApp.Models.AssemblyInfoInputs.cache
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\MarketApp.Models.AssemblyInfo.cs
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\MarketApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\MarketApp.Models.dll
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\refint\MarketApp.Models.dll
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\MarketApp.Models.pdb
+C:\Users\Yusub_sq38\Desktop\Final Project\Final Project\MarketAppFinalProject\MarketApp.Models\obj\Debug\net8.0\ref\MarketApp.Models.dll

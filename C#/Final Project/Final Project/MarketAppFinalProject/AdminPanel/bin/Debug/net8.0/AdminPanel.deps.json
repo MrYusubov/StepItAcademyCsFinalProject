@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdminPanel/1.0.0": {
+        "dependencies": {
+          "MarketApp.Models": "1.0.0"
+        },
+        "runtime": {
+          "AdminPanel.dll": {}
+        }
+      },
+      "MarketApp.Models/1.0.0": {
+        "runtime": {
+          "MarketApp.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdminPanel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarketApp.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
